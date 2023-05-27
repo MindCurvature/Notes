@@ -1,0 +1,9 @@
+= Notes
+
+<<job.adoc#,Job>>
+
+<<ml.adoc#,Machine Learning>>
+
+<<se.adoc#,Software Engineering>>
+
+<<swedish.adoc#,Swedish Language>>

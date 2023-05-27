@@ -1,0 +1,16 @@
+= Machine Learning
+
+== Exploration
+
+https://twimlai.com/[TWIML | The Voice of Machine Learning and Artificial Intelligence] +
+
+== MLOps
+
+https://ml-ops.org/[Machine Learning Operations] +
+https://se-ml.github.io/[Software Engineering for Machine Learning] +
+https://github.com/visenger/awesome-mlops[Awesome MLOps] +
+https://developers.google.com/machine-learning/guides/rules-of-ml[Rules of Machine Learning: Best Practices for ML Engineering] +
+
+== ML System Design
+
+https://stanford-cs329s.github.io/[CS 329S: Machine Learning Systems Design] +
