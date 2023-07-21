@@ -1,5 +1,17 @@
 = Machine Learning
 
+== Courses
+
+https://deeplearning.mit.edu/[MIT Deep Learning and Artificial Intelligence Lectures] +
+https://course.fast.ai/[Practical Deep Learning] +
+https://dlcourse.ai/[Deep Learning на пальцах] +
+
+== Books
+
+https://mml-book.github.io/[Mathematics for Machine Learning] +
+http://neuralnetworksanddeeplearning.com/[Neural Networks and Deep Learning] +
+https://www.deeplearningbook.org/[Deep Learning] +
+
 == Exploration
 
 https://twimlai.com/[TWIML | The Voice of Machine Learning and Artificial Intelligence] +
