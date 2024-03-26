@@ -1,0 +1,5 @@
+= Computer Vision
+
+== Courses
+
+http://6.8300.csail.mit.edu/sp23/project.html[6.8300/6.8301: Advances in Computer Vision] +

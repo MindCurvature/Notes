@@ -3,3 +3,10 @@
 https://x-team.com/developers/[Exclusive Job Offers] +
 https://forhire.fyi/[Hire talented candidates recently laid off from tech companies] +
 https://www.workatastartup.com/[Software Engineer jobs at Y Combinator startups] +
+https://remoteok.com/[remoteok] +
+https://www.toptal.com/[Toptal - Hire the Top 3% of Freelance Talent] +
+https://tryremotely.com/[remotely - Join the best remote startups] +
+https://wellfound.com/[wellfound - Where startups and job seekers connect] +
+https://nodesk.co/[NoDesk - Where everyone works remote] +
+https://jsremotely.com/[JS Remotely - Remote JavaScript Jobs] +
+https://www.flexjobs.com/[flexjobs - The #1 job site to find remote jobs] +

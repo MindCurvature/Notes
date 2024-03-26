@@ -1,5 +1,7 @@
 = Notes
 
+<<english.adoc#,English>>
+
 <<finland.adoc#,Finland>>
 
 <<swedish.adoc#,Swedish Language>>

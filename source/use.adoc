@@ -1,0 +1,63 @@
+= Use
+
+== Tools
+
+https://replit.com/[Replit] +
+https://github.com/orf/gping[Ping, but with a graph] +
+https://quicktype.io/[quicktype: Convert JSON into gorgeous, typesafe code in any language] +
+https://www.cloudcraft.co/[Create smart AWS and Azure diagrams] +
+https://excalidraw.com/[Excalidraw] +
+https://strongswan.org/[strongSwan | Open-source, modular and portable IPsec-based VPN solution] +
+https://www.eraser.io/home[Documents & diagrams for engineering teams] +
+https://hemingwayapp.com/[Hemingway App makes your writing bold and clear] +
+https://makereal.tldraw.com/[tldraw - Draw a ui and make it real with tldraw] +
+https://dummyjson.com/[DummyJSON - Get dummy/fake JSON data to use as placeholder in development or in prototype testing] +
+https://www.majorm.app/[MajorM - MongoDB GUI] +
+
+== Development
+
+https://www.codeedit.app/[CodeEdit] +
+https://codesandbox.io/[CodeSandbox: Code, Review and Deploy in Record Time] +
+https://codepen.io/[CodePen: Online Code Editor and Front End Web Developer Community] +
+https://podman-desktop.io/[Containers and Kubernetes for application developers] +
+https://stackblitz.com/[StackBlitz] +
+
+== Design
+
+https://app.spline.design/tutorials[Spline | Tutorials] +
+https://docs.spline.design/9b8327866f5648048e13a2dd004de78c[Spline | Keyboard Shortcuts] +
+
+== Data Engineering
+
+https://atlas.apache.org/#/[Apache Atlas - Data Catalog, Data Linage] +
+https://www.alation.com/[Alation - Data Catalog, Data Lineage, Data Governance] +
+https://www.soda.io/[SODA - Embed Soda data quality tests in the data stack and workflows your teams already use] +
+https://airbyte.com/[Airbyte - The only tool you need to move data] +
+
+== Infrastructure
+
+https://n8n.io/[n8n -  Workflow automation for technical people ] +
+https://vector.dev/[Vector by DataDog : A lightweight, ultra-fast tool for building observability pipelines] +
+https://byconity.github.io/[ByConity : Cloud native big data analysis engine] +
+https://www.windmill.dev/[Windmill - Developer platform for APIs, background jobs, workflows and UIs] +
+https://observablehq.com/[Observable] +
+https://supabase.com/[Supabase - Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.] +
+https://duckdb.org/[DuckDB - DuckDB is an in-process SQL OLAP database management system ] +
+https://opentelemetry.io/[OpenTelementry - High-quality, ubiquitous, and portable telemetry to enable effective observability] +
+https://www.pulumi.com/[Pulumi - Open Source Infrastructure as Code] +
+
+== Frontend
+
+https://storybook.js.org/[Storybook - Build UIs without the grunt work] +
+https://gravity-ui.com/[GravityUI] +
+https://www.mux.com/[Mux - The Internet's video infrastructure] +
+https://www.storyblok.com/[Storyblok - Build better content experiences, faster without limits. With Storyblok, the modern CMS loved by all teams.] +
+
+== Photo & Video
+
+https://www.fotor.com/[fotor - Online photo editor for everyone] +
+https://stability.ai/[Stability - AI by the people for the people] +
+
+== Creative
+
+https://www.screen.studio/[Screen Studio - Beautiful Screen Recordings in Minutes Creating high quality videos as easy as taking a screenshot. Designed for macOS] +
