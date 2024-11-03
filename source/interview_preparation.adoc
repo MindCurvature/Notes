@@ -1,5 +1,6 @@
 = Interview Preparation
 
+https://codecrafters.io/[Build X from scratch] +
 https://github.com/donnemartin/system-design-primer[The System Design Primer] +
 https://interviewing.io/guides/hiring-process[Ultimate Guide to FAANG Interviews for Senior Engineers] +
 https://interviewing.io/guides/system-design-interview[A Senior Engineer's Guide to the System Design Interview] +

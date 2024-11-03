@@ -10,3 +10,6 @@ https://wellfound.com/[wellfound - Where startups and job seekers connect] +
 https://nodesk.co/[NoDesk - Where everyone works remote] +
 https://jsremotely.com/[JS Remotely - Remote JavaScript Jobs] +
 https://www.flexjobs.com/[flexjobs - The #1 job site to find remote jobs] +
+https://www.huxley.com/en-nl/[Huxley - Global recruitment agency] +
+https://engineer-petr.github.io/[GREAT companies that relocate IT professionals] +
+https://resumeworded.com/[Improve your resume and LinkedIn profile] +

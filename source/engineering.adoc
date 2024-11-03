@@ -1,0 +1,219 @@
+= Engineering
+
+== Learn
+
+https://teachyourselfcs.com/[Teach Yourself Computer Science] +
+https://www.interdb.jp/pg/[The Internals of PostgreSQL] +
+https://use-the-index-luke.com/[SQL Indexing and Tuning e-Book] +
+https://sre.google/books/[Google | SRE Books] +
+https://abseil.io/resources/swe-book[Google | SWE Book] +
+https://howhttps.works/[How HTTPS Works] +
+https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers[White Papers Worth Reading for Software Engineers] +
+https://learn.microsoft.com/en-us/azure/architecture/patterns/[Microsoft | Cloud Design Patterns] +
+https://h3h.github.io/leveling-matrix/[Software Engineer Leveling Matrix] +
+https://github.com/bregman-arie/devops-exercises[Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions] +
+https://malwareunicorn.org/#/workshops[Reverse Engineering Workshops] +
+https://dancres.github.io/Pages/[A Distributed Systems Reading List ] +
+
+https://css-tricks.com/[CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.] +
+https://www.fe.engineer/handbook/getting-started[Frontend Engineer Handbook] +
+
+https://pwn.college/[pwn.college - core cybersecurity concepts in a hands-on fashion] +
+https://web.stanford.edu/class/cs253/[Stanford - CS 253 Web Security] +
+
+http://gaia.cs.umass.edu/kurose_ross/index.php[Computer Networking: A Top-Down Approach. 8th Edition] +
+https://beej.us/guide/bgnet/[Beej's Guide to Network Programming. Using Internet Sockets] +
+
+https://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces] +
+https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/index.html[CMU - Introduction to Computer Systems] +
+http://csapp.cs.cmu.edu/3e/home.html[CMU - Book - Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)] +
+
+https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers[White papers that are worth your time] +
+https://ui.dev/[JavaScript ecosystem courses] +
+
+https://codedamn.com/[Change the world with codedamn] +
+
+https://developers.google.com/tech-writing[Technical Writing Courses for Engineers] +
+
+== Courses
+
+https://deeplearning.mit.edu/[MIT Deep Learning and Artificial Intelligence Lectures] +
+https://course.fast.ai/[Practical Deep Learning] +
+https://dlcourse.ai/[Deep Learning на пальцах] +
+https://huggingface.co/learn/audio-course/chapter0/introduction[Hugging Face Audio course] +
+https://www.cloudskillsboost.google/journeys/118[Google | Introduction to Generative AI Learning Path] +
+https://stanford-cs329s.github.io/[CS 329S: Machine Learning Systems Design] +
+https://cs236g.stanford.edu/[CS236G: Generative Adversarial Networks (GANs)] +
+https://fullstackdeeplearning.com/course/2022/[Full Stack Deep Learning - 2022 Course] +
+https://developers.google.com/machine-learning[Google Machine Learning Education] +
+
+http://6.8300.csail.mit.edu/sp23/project.html[6.8300/6.8301: Advances in Computer Vision] +
+
+== Books
+
+https://mml-book.github.io/[Mathematics for Machine Learning] +
+http://neuralnetworksanddeeplearning.com/[Neural Networks and Deep Learning] +
+https://www.deeplearningbook.org/[Deep Learning] +
+https://udlbook.github.io/udlbook/[Understanding Deep Learning] +
+https://leanpub.com/MLE[Machine Learning Engineering] +
+https://leanpub.com/theMLbook[The Hundred-Page Machine Learning Book] +
+
+== Exploration
+
+https://twimlai.com/[TWIML | The Voice of Machine Learning and Artificial Intelligence] +
+
+== MLOps
+
+https://mymlops.com/[Build your MLOps stack] +
+https://ml-ops.org/[Machine Learning Operations] +
+https://se-ml.github.io/[Software Engineering for Machine Learning] +
+https://github.com/visenger/awesome-mlops[Awesome MLOps] +
+https://developers.google.com/machine-learning/guides/rules-of-ml[Rules of Machine Learning: Best Practices for ML Engineering] +
+https://www.gradio.app/[Gradio - Build & share delightful machine learning apps] +
+https://streamlit.io/[Streamlit - A faster way to build and share data apps] +
+https://greatexpectations.io/[Great Expectations - Have confidence in your data, no matter what] +
+https://www.soda.io/[Soda - Test and deliver data that everyone can trust] +
+https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning[MLOps: Continuous delivery and automation pipelines in machine learning] +
+https://www.tensorflow.org/tensorboard[TensorBoard: TensorFlow's visualization toolkit] +
+https://dvc.org/[Data Version Control] +
+https://dvc.ai/[The Unstructured Intelligence Platform] +
+https://resources.nvidia.com/l/en-us-gpu[NVIDIA Data Center GPU Resource Center] +
+https://toloka.ai/[Powering AI with human insight] +
+
+== LLM
+https://openrouter.ai/[A unified interface for LLMs] +
+
+== Deep Learning
+https://imagen.research.google/[Imagen - text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding] +
+https://build.nvidia.com/explore/discover[NVIDIA Explore Models] +
+
+== Computer Vision
+https://www.rerun.io/[Rerun - Rerun is an SDK for visualizing multimodal data that changes over time. It’s used by engineers and researchers in fields like computer vision and robotics to verify, debug, and demo.] +
+
+== Tools and Services
+
+https://github.com/skypilot-org/skypilot[SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.] +
+https://www.doppler.com/[Doppler: Centralized Secrets Management Without the Chaos] +
+https://www.wireguard.com/[WireGuard: Fast, Modern, Secure VPN Tunnel] +
+
+== Observability and Monitoring
+
+https://jaegertracing.io/[Jaeger: open source, distributed tracing platform] +
+https://opentelemetry.io/[OpenTelemetry: High-quality, ubiquitous, and portable telemetry to enable effective observability] +
+https://fluentd.org/[Fluentd: open-source data collector] +
+https://fluentbit.io/[Fluent Bit: Fast and Lightweight Log Processor and Forwarder for Linux, BSD and OSX] +
+https://www.vantage.sh/[Vantage: Cloud Cost Observability and Optimization] +
+
+== Inference
+
+https://lmstudio.ai/[LM Studio: Deploy, monitor, and scale your models] +
+https://docs.vllm.ai/en/latest/index.html[VLLM: VLLM is a large language model that can generate human-like text] +
+https://github.com/microsoft/BitNet[BitNet: Official inference framework for 1-bit LLMs] +
+https://github.com/InternLM/lmdeploy[LmDeploy: LMDeploy is a toolkit for compressing, deploying, and serving LLMs] +
+
+=== Model Optimization
+
+https://github.com/NVIDIA/FasterTransformer[FasterTransformer: Transformer related optimization, including BERT, GPT] +
+https://github.com/mit-han-lab/llm-awq[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration] +
+https://github.com/microsoft/DeepSpeed-MII[DeepSpeed-MII: MII makes low-latency and high-throughput inference possible, powered by DeepSpeed] +
+
+=== Triton Inference Server
+
+https://github.com/triton-inference-server/server/blob/main/qa/common/trace_summary.py[Triton Inference Server Trace Summary] +
+
+== Storage
+
+https://ceph.com/en/[Ceph - A unified, distributed storage system designed for excellent performance, reliability, and scalability] +
+
+== Networking
+
+https://www.strongswan.org/[strongSwan - Open-source, modular and portable IPsec-based VPN solution] +
+https://tailscale.com/[Tailscale - Secure networks that just work] +
+
+== Tools
+
+https://replit.com/[Replit] +
+https://github.com/orf/gping[Ping, but with a graph] +
+https://quicktype.io/[quicktype: Convert JSON into gorgeous, typesafe code in any language] +
+https://www.cloudcraft.co/[Create smart AWS and Azure diagrams] +
+https://excalidraw.com/[Excalidraw] +
+https://strongswan.org/[strongSwan | Open-source, modular and portable IPsec-based VPN solution] +
+https://www.eraser.io/home[Documents & diagrams for engineering teams] +
+https://hemingwayapp.com/[Hemingway App makes your writing bold and clear] +
+https://makereal.tldraw.com/[tldraw - Draw a ui and make it real with tldraw] +
+https://dummyjson.com/[DummyJSON - Get dummy/fake JSON data to use as placeholder in development or in prototype testing] +
+https://www.majorm.app/[MajorM - MongoDB GUI] +
+
+== Development
+
+https://www.codeedit.app/[CodeEdit] +
+https://codesandbox.io/[CodeSandbox: Code, Review and Deploy in Record Time] +
+https://codepen.io/[CodePen: Online Code Editor and Front End Web Developer Community] +
+https://podman-desktop.io/[Containers and Kubernetes for application developers] +
+https://stackblitz.com/[StackBlitz] +
+
+== Design
+
+https://app.spline.design/tutorials[Spline | Tutorials] +
+https://docs.spline.design/9b8327866f5648048e13a2dd004de78c[Spline | Keyboard Shortcuts] +
+
+== Data Engineering
+
+https://atlas.apache.org/#/[Apache Atlas - Data Catalog, Data Linage] +
+https://www.alation.com/[Alation - Data Catalog, Data Lineage, Data Governance] +
+https://www.soda.io/[SODA - Embed Soda data quality tests in the data stack and workflows your teams already use] +
+https://airbyte.com/[Airbyte - The only tool you need to move data] +
+
+== Infrastructure
+
+https://ngrok.com/[ngrok - Secure introspectable tunnels to localhost] +
+https://atlasgo.io/[AtlasGo - Manage your database schema as code] +
+https://n8n.io/[n8n -  Workflow automation for technical people ] +
+https://vector.dev/[Vector by DataDog : A lightweight, ultra-fast tool for building observability pipelines] +
+https://byconity.github.io/[ByConity : Cloud native big data analysis engine] +
+https://www.windmill.dev/[Windmill - Developer platform for APIs, background jobs, workflows and UIs] +
+https://observablehq.com/[Observable] +
+https://supabase.com/[Supabase - Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.] +
+https://duckdb.org/[DuckDB - DuckDB is an in-process SQL OLAP database management system ] +
+https://opentelemetry.io/[OpenTelementry - High-quality, ubiquitous, and portable telemetry to enable effective observability] +
+https://www.pulumi.com/[Pulumi - Open Source Infrastructure as Code] +
+
+== Databases
+https://www.dragonflydb.io/[DragonflyDB - Dragonfly is a distributed SQL database with ACID transactions, horizontal scalability, and global consistency] +
+
+== Frontend
+
+https://storybook.js.org/[Storybook - Build UIs without the grunt work] +
+https://gravity-ui.com/[GravityUI] +
+https://www.mux.com/[Mux - The Internet's video infrastructure] +
+https://www.storyblok.com/[Storyblok - Build better content experiences, faster without limits. With Storyblok, the modern CMS loved by all teams.] +
+
+== Photo & Video
+
+https://www.fotor.com/[fotor - Online photo editor for everyone] +
+https://stability.ai/[Stability - AI by the people for the people] +
+
+== Creativity
+
+https://www.framer.com/[Framer - Interactive Design Tool] +
+https://www.screen.studio/[Screen Studio - Beautiful Screen Recordings in Minutes Creating high quality videos as easy as taking a screenshot. Designed for macOS] +
+
+
+https://altstore.io/[AltStore - The best way to sideload apps on iOS] +
+https://weld.app/[Weld - AI powered ETL platform built for data analysts] +
+https://rize.io/[Rize - Rize is an AI productivity coach that uses time tracking to improve your focus and build better work habits.] +
+https://www.datensen.com/blog/database-design-tool-for-postgresql/[LunaModeler - Database design tool for PostgreSQL and SQL Server, MySQL, MariaDB, SQLite] +
+
+https://www.rerun.io/[Rerun - Rerun is an SDK, time-series database, and visualizer for temporal and multimodal data. It’s used in fields like robotics, spatial computing, 2D/3D simulation, and finance to verify, debug, and explain.] +
+
+https://topoexport.com/[Topoexport - Export map to 2D or 3D object] +
+
+=== AI Tools
+
+https://www.d-id.com/[D-iD - Create Interactive Avatars to Engage Your Audience] +
+https://www.synthesia.io/[Synthesia - Create studio-quality videos with AI avatars and voiceovers in 140+ languages. It’s as easy as making a slide deck.] +
+https://imageupscaler.pro/[Image Upscaler - Upscale your images by up to 600% using AI] +
+https://stablediffusionweb.com/[Stable Diffusion Web - Create high-quality images with AI] +
+https://rendernet.ai/[RenderNet - Create high-quality images with AI] +
+https://runwayml.com/[RunwayML - Create high-quality images with AI] +
+https://leonardo.ai/[Leonardo - Create high-quality images with AI] +

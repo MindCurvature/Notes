@@ -1,17 +1,9 @@
 = Notes
 
-<<english.adoc#,English>>
-
-<<finland.adoc#,Finland>>
-
-<<swedish.adoc#,Swedish Language>>
-
-<<ideas.adoc#,Ideas>>
-
 <<job_search.adoc#,Job Search>>
 
 <<interview_preparation.adoc#,Interview Preparation>>
 
-<<machine_learning.adoc#,Machine Learning>>
+<<entrepreneurship.adoc#,Entrepreneurship>>
 
-<<software_engineering.adoc#,Software Engineering>>
+<<engineering.adoc#,Engineering>>
